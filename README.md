@@ -8,6 +8,16 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Contents
 
+## OpenClaw Monitor
+
+> Real-time AI Agent Monitoring Dashboard for OpenClaw
+
+**GitHub:** [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
+
 - [Official resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Books](#books)
